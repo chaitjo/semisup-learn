@@ -21,7 +21,7 @@ setup(
     description="Semisupervised Learning Framework",
     url='https://github.com/tmadl/semisup-learn',
     packages=[
-        'methods', 'frameworks'
+        'methods', 'frameworks', 'examples'
     ],
     include_package_data=True,
     install_requires=requirements,
